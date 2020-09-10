@@ -35,9 +35,11 @@ img {
     height: auto; /* Højden skal tilpasse sig */
 }
 
-.transition {
-    -webkit-transition: all 0.5s ease;
-    -moz-transition: all 0.5s ease;
-    -o-transition: all 0.5s ease;
-    transition: all 0.5s ease;
+.box{
+    height: 100px;
+    width: 500px
+    border: solid 2px cadetblue;
+    text-align: center;
+    padding: 10px;
+    margin: 20px
 }
